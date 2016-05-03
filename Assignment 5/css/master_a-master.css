@@ -1,0 +1,388 @@
+#u396
+{
+	background: #C9C9C9 url("../images/u396-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, color-stop(60%, #FFFFFF),to(#C9C9C9));
+	background: -webkit-linear-gradient(left,#FFFFFF 60%,#C9C9C9 );
+	background: linear-gradient(to right,#FFFFFF 60%,#C9C9C9 );
+	position: relative;
+}
+
+#u321
+{
+	position: relative;
+	background: #FFFFFF url("../images/world-business-and-finance-blue-background-header.jpg") repeat left top;
+}
+
+.hidpi #u321
+{
+	background-image: url("../images/world-business-and-finance-blue-background-header_2x.jpg");
+	background-size: 640px 187.5px;
+}
+
+#u322
+{
+	background: -webkit-gradient(linear, center top, center bottom, from(#FFFFFF),color-stop(100%, #C9C9C9));
+	background: -webkit-linear-gradient(top,#FFFFFF ,#C9C9C9 100%);
+	background: linear-gradient(to bottom,#FFFFFF ,#C9C9C9 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFFFFFFF, endColorstr=#FFC9C9C9, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FFC9C9C9', GradientType=0)";
+	position: relative;
+}
+
+#u323-4
+{
+	background-color: transparent;
+	color: #1B1464;
+	font-family: Comic Sans, Comic Sans MS, cursive;
+	position: relative;
+}
+
+#pamphletu397
+{
+	position: fixed;
+}
+
+#u409
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u410
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #EDEDED;
+	position: relative;
+}
+
+#u427
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #DA8F38;
+	position: relative;
+}
+
+#u318-4
+{
+	background-color: transparent;
+	font-size: 72px;
+	line-height: 86px;
+	position: relative;
+}
+
+#u318
+{
+	color: #C1272D;
+	font-family: julee, fantasy;
+	font-weight: 400;
+}
+
+#buttonu411
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu411:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #5FB48E;
+}
+
+#u412-4
+{
+	background-color: transparent;
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+}
+
+#u412-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u412
+{
+	font-weight: 400;
+	line-height: 19px;
+}
+
+#u413
+{
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.009999999999999998;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0.9999999999999998)";
+	filter: alpha(opacity=0.9999999999999998);
+	position: relative;
+}
+
+#buttonu411.ButtonSelected,#buttonu411:hover #u413
+{
+	background-color: transparent;
+}
+
+#buttonu411:active #u413
+{
+	background-color: transparent;
+}
+
+#buttonu419
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu419:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #5FB48E;
+}
+
+#u422-4
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u422-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u420
+{
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.009999999999999998;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0.9999999999999998)";
+	filter: alpha(opacity=0.9999999999999998);
+	position: relative;
+}
+
+#buttonu411.ButtonSelected #u413,#buttonu419.ButtonSelected,#buttonu419:hover #u420
+{
+	background-color: transparent;
+}
+
+#buttonu419:active #u420
+{
+	background-color: transparent;
+}
+
+#buttonu415
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu415:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #5FB48E;
+}
+
+#u416-4
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u416-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u417
+{
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.009999999999999998;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0.9999999999999998)";
+	filter: alpha(opacity=0.9999999999999998);
+	position: relative;
+}
+
+#buttonu419.ButtonSelected #u420,#buttonu415.ButtonSelected,#buttonu415:hover #u417
+{
+	background-color: transparent;
+}
+
+#buttonu415:active #u417
+{
+	background-color: transparent;
+}
+
+#buttonu438
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu438:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #5FB48E;
+}
+
+#u441-4
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u441-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u439
+{
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.009999999999999998;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0.9999999999999998)";
+	filter: alpha(opacity=0.9999999999999998);
+	position: relative;
+}
+
+#buttonu415.ButtonSelected #u417,#buttonu438.ButtonSelected,#buttonu438:hover #u439
+{
+	background-color: transparent;
+}
+
+#buttonu438:active #u439
+{
+	background-color: transparent;
+}
+
+#buttonu423
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu423:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #5FB48E;
+}
+
+#u424-4
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u424-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u422,#u416,#u441,#u424
+{
+	line-height: 19px;
+}
+
+#u425
+{
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.009999999999999998;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0.9999999999999998)";
+	filter: alpha(opacity=0.9999999999999998);
+	position: relative;
+}
+
+#u413::before,#u420::before,#u417::before,#u439::before,#u425::before
+{
+	box-shadow: none;
+}
+
+#buttonu438.ButtonSelected #u439,#buttonu423.ButtonSelected,#buttonu423:hover #u425
+{
+	background-color: transparent;
+}
+
+#buttonu423:active #u425
+{
+	background-color: transparent;
+}
+
+#buttonu423.ButtonSelected #u425
+{
+	background-color: transparent;
+}
+
+#u400
+{
+	position: relative;
+}
+
+#u401
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FBB03B;
+	position: fixed;
+}
+
+#u401.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FBB03B;
+}
+
+#u402
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u406
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FBB03B;
+}
+
+#u407
+{
+	background-color: transparent;
+	position: relative;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+

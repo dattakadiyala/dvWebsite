@@ -1,0 +1,173 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1430811509282">
+  <folder name="assets">
+    <file name="how_chef_works.mp4" crc="196715336" mt="1430350262000"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="how-it-works.css" crc="482979917" ref="tablet>how-it-works"/>
+      <file name="how-to-adopt.css" crc="146566894" ref="tablet>how-to-adopt"/>
+      <file name="tools.css" crc="78208756" ref="tablet>tools"/>
+      <file name="contact.css" crc="4163333589" ref="tablet>contact"/>
+      <file name="index.css" crc="189669784" ref="tablet>index"/>
+      <file name="master_a-master.css" crc="4239968398" ref="tablet>index:tablet>how-it-works:tablet>tools:tablet>how-to-adopt:tablet>contact"/>
+      <file name="iefonts_tools.css" crc="3989183478" ref="tablet>tools"/>
+      <file name="iefonts_how-to-adopt.css" crc="4082077914" ref="tablet>how-to-adopt"/>
+      <file name="iefonts_how-it-works.css" crc="4164181913" ref="tablet>how-it-works"/>
+    </folder>
+    <file name="index.html" crc="4112103648" mt="1430381028856" redirect="true"/>
+    <file name="how-to-adopt.html" crc="4188421997" mt="1430382020281" redirect="true"/>
+    <file name="tools.html" crc="521173940" mt="1430384183526" redirect="true"/>
+    <file name="how-it-works.html" crc="354448258" mt="1430385753499" redirect="true"/>
+    <file name="contact.html" crc="25154302" mt="1430386145103" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="contact.css" crc="501983344" ref="phone>contact"/>
+      <file name="index.css" crc="4230834545" ref="phone>index"/>
+      <file name="how-it-works.css" crc="4180704604" ref="phone>how-it-works"/>
+      <file name="tools.css" crc="381319936" ref="phone>tools"/>
+      <file name="how-to-adopt.css" crc="3862063641" ref="phone>how-to-adopt"/>
+      <file name="master_a-master.css" crc="454572779" ref="phone>how-it-works:phone>how-to-adopt:phone>index:phone>contact:phone>tools"/>
+      <file name="iefonts_index.css" crc="3897330310" ref="phone>index"/>
+      <file name="iefonts_how-it-works.css" crc="4233351864" ref="phone>how-it-works"/>
+      <file name="iefonts_how-to-adopt.css" crc="3792504647" ref="phone>how-to-adopt"/>
+      <file name="iefonts_contact.css" crc="4044626141" ref="phone>contact"/>
+      <file name="iefonts_tools.css" crc="3805573671" ref="phone>tools"/>
+    </folder>
+    <file name="index.html" crc="226299307" mt="1430380591625" redirect="true"/>
+    <file name="how-to-adopt.html" crc="4090976697" mt="1430382692448" redirect="true"/>
+    <file name="tools.html" crc="114279193" mt="1430384247777" redirect="true"/>
+    <file name="how-it-works.html" crc="346798390" mt="1430385655825" redirect="true"/>
+    <file name="contact.html" crc="494226171" mt="1430386443265" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3921037745"/>
+    <file name="master_a-master.css" crc="528603364" ref="how-it-works:tools:how-to-adopt:contact:index"/>
+    <file name="how-it-works.css" crc="3767427333" ref="how-it-works"/>
+    <file name="tools.css" crc="168441517" ref="tools"/>
+    <file name="how-to-adopt.css" crc="4209555019" ref="how-to-adopt"/>
+    <file name="contact.css" crc="203773954" ref="contact"/>
+    <file name="index.css" crc="3942532877" ref="index"/>
+    <file name="iefonts_how-it-works.css" crc="393379217" ref="how-it-works"/>
+    <file name="iefonts_tools.css" crc="507755382" ref="tools"/>
+    <file name="iefonts_how-to-adopt.css" crc="207062093" ref="how-to-adopt"/>
+    <file name="iefonts_contact.css" crc="3865843787" ref="contact"/>
+    <file name="iefonts_index.css" crc="407121669" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:how-to-adopt:tools:how-it-works:contact:phone>index:phone>how-to-adopt:phone>tools:phone>how-it-works:phone>contact:tablet>index:tablet>how-to-adopt:tablet>tools:tablet>how-it-works:tablet>contact"/>
+    <file name="museutils.js" crc="521960461" ref="index:how-to-adopt:tools:how-it-works:contact:phone>index:phone>how-to-adopt:phone>tools:phone>how-it-works:phone>contact:tablet>index:tablet>how-to-adopt:tablet>tools:tablet>how-it-works:tablet>contact"/>
+    <file name="webpro.js" crc="220831917" ref="index:how-to-adopt:tools:how-it-works:contact:phone>index:phone>how-to-adopt:phone>tools:phone>how-it-works:phone>contact:tablet>index:tablet>how-to-adopt:tablet>tools:tablet>how-it-works:tablet>contact"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="index:how-to-adopt:tools:how-it-works:contact"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="index:how-to-adopt:tools:how-it-works:contact"/>
+    <file name="touchswipe.js" crc="325405309" ref="index:how-to-adopt:tools:how-it-works:contact"/>
+    <file name="jquery.watch.js" crc="56779320" ref="phone>index:phone>how-to-adopt:phone>tools:phone>how-it-works:phone>contact:tablet>index:tablet>how-to-adopt:tablet>tools:tablet>how-it-works:tablet>contact"/>
+    <file name="museredirect.js" crc="4117159434" ref="tablet>index:tablet>how-to-adopt:tablet>tools:tablet>how-it-works:tablet>contact:index:how-to-adopt:tools:how-it-works:contact"/>
+    <file name="musewpdisclosure.js" crc="4110183178" ref="tools:phone>index:phone>how-to-adopt:phone>tools:phone>how-it-works:phone>contact:tablet>index:tablet>how-to-adopt:tablet>tools:tablet>how-it-works:tablet>contact"/>
+    <file name="pie.js" crc="3827607177" ref="how-it-works:phone>index:tablet>index:phone>how-to-adopt:tablet>how-to-adopt:phone>how-it-works:tablet>how-it-works:phone>contact:tablet>contact"/>
+    <file name="form_check.php" crc="218543696" ref="contact:phone>contact:tablet>contact"/>
+    <file name="form_throttle.php" crc="3988545917" ref="contact:phone>contact:tablet>contact"/>
+    <file name="form_process.php" crc="4264751530" ref="contact:phone>contact:tablet>contact"/>
+    <file name="form-u1269.php" crc="3856917335" ref="contact"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="phone>index:phone>how-to-adopt:phone>tools:phone>how-it-works:phone>contact:tablet>index:tablet>how-to-adopt:tablet>tools:tablet>how-it-works:tablet>contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>how-to-adopt:phone>tools:phone>how-it-works:phone>contact:how-to-adopt:tools:how-it-works:contact:tablet>index:tablet>how-to-adopt:tablet>tools:tablet>how-it-works:tablet>contact"/>
+    <file name="form-u2083.php" crc="87978336" ref="phone>contact"/>
+    <file name="form-u2028.php" crc="17634752" ref="tablet>contact"/>
+  </folder>
+  <folder name="images">
+    <file name="u396-grad.png" crc="84889680" ref="index:how-it-works:contact"/>
+    <file name="pointer.png" crc="3760686964" ref="index:how-to-adopt:tools:how-it-works:contact"/>
+    <file name="pointer_2x.png" crc="3760686964" ref="index:how-to-adopt:tools:how-it-works:contact"/>
+    <file name="menu_icon_04_white_3line-crop-u402.png" crc="4241844675" ref="index:how-to-adopt:tools:how-it-works:contact"/>
+    <file name="close_light.png" crc="126613487" ref="index:how-to-adopt:tools:how-it-works:contact"/>
+    <file name="world-business-and-finance-blue-background-header.jpg" crc="207530910" ref="index:how-it-works:contact"/>
+    <file name="world-business-and-finance-blue-background-header_2x.jpg" crc="416855280" ref="index:how-it-works:contact"/>
+    <file name="devops-infinity-loop2.jpg" crc="4130808114" ref="tablet>index"/>
+    <file name="u848-grad.png" crc="463458063" ref="how-to-adopt"/>
+    <file name="icon-culture.png" crc="2289766" ref="how-to-adopt:phone>how-to-adopt:tablet>how-to-adopt"/>
+    <file name="icon-automation.png" crc="3889575768" ref="how-to-adopt:phone>how-to-adopt:tablet>how-to-adopt"/>
+    <file name="icon-measurement.png" crc="3780300753" ref="how-to-adopt:phone>how-to-adopt:tablet>how-to-adopt"/>
+    <file name="icon-sharing.png" crc="4262754901" ref="how-to-adopt:phone>how-to-adopt:tablet>how-to-adopt"/>
+    <file name="u940-grad.png" crc="3828093099" ref="index"/>
+    <file name="u1091-grad.png" crc="435096289" ref="tools"/>
+    <file name="puppet-labs-logo.png" crc="3839719435" ref="tools:phone>tools:tablet>tools"/>
+    <file name="puppet-labs-logo_2x.png" crc="124552334" ref="tools:phone>tools:tablet>tools"/>
+    <file name="define.jpg" crc="4225220335" ref="tools:tablet>tools"/>
+    <file name="simulate.jpg" crc="3878877636" ref="tools:tablet>tools"/>
+    <file name="enforce.jpg" crc="3775819635" ref="tools:tablet>tools"/>
+    <file name="report_0.jpg" crc="3911980941" ref="tools:tablet>tools"/>
+    <file name="speed.jpg" crc="3929964226" ref="tools:tablet>tools"/>
+    <file name="speed_2x.jpg" crc="3906466783" ref="tools:tablet>tools"/>
+    <file name="aglity.jpg" crc="425851290" ref="tools:tablet>tools"/>
+    <file name="aglity_2x.jpg" crc="3919319467" ref="tools:tablet>tools"/>
+    <file name="insight.jpg" crc="4221674389" ref="tools:tablet>tools"/>
+    <file name="insight_2x.jpg" crc="4294611461" ref="tools:tablet>tools"/>
+    <file name="chef-logo.jpg" crc="4106226951" ref="tools:phone>tools:tablet>tools"/>
+    <file name="capture.jpg" crc="4231590705" ref="tools:tablet>tools"/>
+    <file name="new_tower_icon.png" crc="3982957053" ref="tools:phone>tools:tablet>tools"/>
+    <file name="new_services_icon.png" crc="29104575" ref="tools:phone>tools:tablet>tools"/>
+    <file name="simple.png" crc="4214364769" ref="tools:tablet>tools"/>
+    <file name="agentless.png" crc="522699192" ref="tools:tablet>tools"/>
+    <file name="complete-1.png" crc="4212847507" ref="tools:tablet>tools"/>
+    <file name="capture2.jpg" crc="4290458137" ref="tools"/>
+    <file name="saltstack-logo.jpg" crc="3940975632" ref="tools:phone>tools:tablet>tools"/>
+    <file name="saltstack-logo_2x.jpg" crc="3933268447" ref="tools:phone>tools:tablet>tools"/>
+    <file name="atlassian-logo-1.jpg" crc="491154568" ref="tools:tablet>tools"/>
+    <file name="servicenow-icon.png" crc="181628013" ref="tools:tablet>tools"/>
+    <file name="splunk-devops.jpg" crc="483069053" ref="tools:tablet>tools"/>
+    <file name="splunk-devops_2x.jpg" crc="11608181" ref="tools:tablet>tools"/>
+    <file name="u1261-grad.png" crc="4033956390" ref="how-it-works"/>
+    <file name="step1.png" crc="3814227422" ref="how-it-works:phone>how-it-works:tablet>how-it-works"/>
+    <file name="step2.png" crc="532445576" ref="how-it-works:phone>how-it-works:tablet>how-it-works"/>
+    <file name="step3.png" crc="11082794" ref="how-it-works:phone>how-it-works:tablet>how-it-works"/>
+    <file name="step4.png" crc="4114127694" ref="phone>how-it-works:tablet>how-it-works"/>
+    <file name="u1217-grad.png" crc="4067044088" ref="how-it-works"/>
+    <file name="u1268-grad.png" crc="4215239142" ref="contact"/>
+    <file name="u1291-17.png" crc="4023368156" ref="contact"/>
+    <file name="u1291-17-r.png" crc="4007529180" ref="contact"/>
+    <file name="u1291-17-m.png" crc="3827343485" ref="contact"/>
+    <file name="u1291-17-fs.png" crc="3898062117" ref="contact"/>
+    <file name="u1291-17_2x.png" crc="4184211190" ref="contact"/>
+    <file name="u1291-17-r_2x.png" crc="3927482500" ref="contact"/>
+    <file name="u1291-17-m_2x.png" crc="9205348" ref="contact"/>
+    <file name="u1291-17-fs_2x.png" crc="45329541" ref="contact"/>
+    <file name="menu-icon.png" crc="3860686542" ref="phone>index:tablet>index:phone>how-to-adopt:tablet>how-to-adopt:phone>how-it-works:tablet>how-it-works:phone>contact:tablet>contact"/>
+    <file name="devops-infinity-loop2360x168.jpg" crc="4271326168" ref="phone>index"/>
+    <file name="devops-infinity-loop2_2x.jpg" crc="4149202001" ref="phone>index"/>
+    <file name="devopsdaysaustin.jpg" crc="230736483" ref="tablet>index"/>
+    <file name="devopsdaysaustin123x179.jpg" crc="4119056479" ref="index"/>
+    <file name="devops-infinity-loop2379x177.jpg" crc="165786991" ref="index"/>
+    <file name="logo.png" crc="4119368390" ref="phone>how-to-adopt:tablet>how-to-adopt"/>
+    <file name="logo_2x.png" crc="367329610" ref="phone>how-to-adopt:tablet>how-to-adopt"/>
+    <file name="u1787-grad.png" crc="216082932" ref="tablet>how-to-adopt"/>
+    <file name="capture753x52.jpg" crc="3869298207" ref="tablet>tools"/>
+    <file name="u1998-grad.png" crc="4260660879" ref="phone>how-it-works"/>
+    <file name="u2005-grad.png" crc="4044699645" ref="phone>how-it-works:tablet>how-it-works"/>
+    <file name="u2012-grad.png" crc="3881232145" ref="phone>how-it-works:tablet>how-it-works"/>
+    <file name="awsdevops.jpg" crc="217964787" ref="tablet>how-it-works"/>
+    <file name="u1978-grad.png" crc="4288714919" ref="tablet>how-it-works"/>
+    <file name="step4183x184.png" crc="4114127694" ref="how-it-works"/>
+    <file name="u2103-17.png" crc="4023368156" ref="phone>contact"/>
+    <file name="u2103-17-r.png" crc="4007529180" ref="phone>contact"/>
+    <file name="u2103-17-m.png" crc="3827343485" ref="phone>contact"/>
+    <file name="u2103-17-fs.png" crc="3898062117" ref="phone>contact"/>
+    <file name="u2103-17_2x.png" crc="4184211190" ref="phone>contact"/>
+    <file name="u2103-17-r_2x.png" crc="3927482500" ref="phone>contact"/>
+    <file name="u2103-17-m_2x.png" crc="9205348" ref="phone>contact"/>
+    <file name="u2103-17-fs_2x.png" crc="45329541" ref="phone>contact"/>
+    <file name="u2026-grad.png" crc="4092250773" ref="tablet>contact"/>
+    <file name="u2048-17.png" crc="4023368156" ref="tablet>contact"/>
+    <file name="u2048-17-r.png" crc="4007529180" ref="tablet>contact"/>
+    <file name="u2048-17-m.png" crc="3827343485" ref="tablet>contact"/>
+    <file name="u2048-17-fs.png" crc="3898062117" ref="tablet>contact"/>
+    <file name="u2048-17_2x.png" crc="4184211190" ref="tablet>contact"/>
+    <file name="u2048-17-r_2x.png" crc="3927482500" ref="tablet>contact"/>
+    <file name="u2048-17-m_2x.png" crc="9205348" ref="tablet>contact"/>
+    <file name="u2048-17-fs_2x.png" crc="45329541" ref="tablet>contact"/>
+  </folder>
+  <file name="index.html" crc="414082247" mt="1430811490564" redirect="true"/>
+  <file name="how-to-adopt.html" crc="3907691191" mt="1430364034542" redirect="true"/>
+  <file name="tools.html" crc="140870292" mt="1430372010424" redirect="true"/>
+  <file name="how-it-works.html" crc="262915167" mt="1430385873006" redirect="true"/>
+  <file name="contact.html" crc="4224820361" mt="1430385949866" redirect="true"/>
+</manifest>

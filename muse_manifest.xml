@@ -1,0 +1,54 @@
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1427875047844">
+  <folder name="css">
+    <file name="site_global.css" crc="4264166873"/>
+    <file name="master_a-master.css" crc="164387545" ref="index:north-india:south-india:survay:contact"/>
+    <file name="index.css" crc="3822128597" ref="index"/>
+    <file name="north-india.css" crc="3913305046" ref="north-india"/>
+    <file name="south-india.css" crc="3913305046" ref="south-india"/>
+    <file name="survay.css" crc="3913305046" ref="survay"/>
+    <file name="contact.css" crc="3913305046" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="phone>index:phone>north-india:phone>south-india:phone>survay:phone>contact:index:north-india:south-india:survay:contact"/>
+    <file name="museutils.js" crc="479751881" ref="phone>index:phone>north-india:phone>south-india:phone>survay:phone>contact:index:north-india:south-india:survay:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="phone>index:phone>north-india:phone>south-india:phone>survay:phone>contact:index:north-india:south-india:survay:contact"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="phone>index:phone>north-india:phone>south-india:phone>survay:phone>contact:index:north-india:south-india:survay:contact"/>
+    <file name="webpro.js" crc="3930024250" ref="index:north-india:south-india:survay:contact"/>
+    <file name="musewpslideshow.js" crc="4014282895" ref="index:north-india:south-india:survay:contact"/>
+    <file name="jquery.museoverlay.js" crc="4213181908" ref="index:north-india:south-india:survay:contact"/>
+    <file name="touchswipe.js" crc="4151298246" ref="index:north-india:south-india:survay:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="background.jpg" crc="3882245885" ref="phone>index:phone>north-india:phone>south-india:phone>survay:phone>contact"/>
+    <file name="travel-image-background.jpg" crc="286902713" ref="index:north-india:south-india:survay:contact"/>
+    <file name="pointer.png" crc="3760686964" ref="index:north-india:south-india:survay:contact"/>
+    <file name="pointer_2x.png" crc="3760686964" ref="index:north-india:south-india:survay:contact"/>
+    <file name="menu_icon_05_black_3line.png" crc="4118792019" ref="index:north-india:south-india:survay:contact"/>
+    <file name="15417-taj-mahal-1280x800-world-wallpaper.jpg" crc="4200261917" ref="index"/>
+    <file name="15417-taj-mahal-1280x800-world-wallpaper_2x.jpg" crc="3973074497" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="article-0-141327e3000005dc-426_964x528.jpg" crc="447905263" ref="index"/>
+    <file name="himalayas-17.jpg" crc="346005893" ref="index"/>
+    <file name="himalayas-17_2x.jpg" crc="4199756971" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="contact.css" crc="4085711950" ref="phone>contact"/>
+      <file name="survay.css" crc="4085711950" ref="phone>survay"/>
+      <file name="north-india.css" crc="4085711950" ref="phone>north-india"/>
+      <file name="south-india.css" crc="4085711950" ref="phone>south-india"/>
+      <file name="index.css" crc="4085711950" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="421892900" mt="1427869164394" redirect="false"/>
+    <file name="north-india.html" crc="3929659446" mt="1427869164451" redirect="false"/>
+    <file name="south-india.html" crc="311981780" mt="1427869164511" redirect="false"/>
+    <file name="survay.html" crc="118866526" mt="1427869164589" redirect="false"/>
+    <file name="contact.html" crc="196736710" mt="1427869164642" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="31124072" mt="1427873572014" redirect="true"/>
+  <file name="north-india.html" crc="4089353693" mt="1427873572014" redirect="true"/>
+  <file name="south-india.html" crc="3766977188" mt="1427873572014" redirect="true"/>
+  <file name="survay.html" crc="3876444964" mt="1427873572014" redirect="true"/>
+  <file name="contact.html" crc="366493746" mt="1427873572014" redirect="true"/>
+</manifest>

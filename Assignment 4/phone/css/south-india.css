@@ -1,0 +1,420 @@
+.version.south_india /* version checker */
+{
+	color: #00001A;
+	background-color: #4A426D;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #D4E5FF;
+	background: -webkit-gradient(linear, center top, center bottom, from(#D4E5FF),color-stop(100%, #00101E));
+	background: -webkit-linear-gradient(top,#D4E5FF ,#00101E 100%);
+	background: linear-gradient(to bottom,#D4E5FF ,#00101E 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFD4E5FF, endColorstr=#FF00101E, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFD4E5FF', endColorstr='#FF00101E', GradientType=0)";
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	border-style: none;
+	border-color: #000000;
+	background: #FFFFFF url("../../images/travel-image-background.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#page_position_content,#pu1165
+{
+	width: 0.01px;
+}
+
+#u1165
+{
+	z-index: 2;
+	width: 380px;
+	height: 71px;
+	margin-right: -10000px;
+}
+
+#u1166
+{
+	z-index: 3;
+	width: 34px;
+	height: 50px;
+	margin-bottom: -8px;
+	margin-right: -10000px;
+	margin-top: 29px;
+	left: 325px;
+}
+
+#u1167-3
+{
+	z-index: 4;
+	width: 300px;
+	min-height: 55px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 20px;
+}
+
+#u1168
+{
+	z-index: 7;
+	width: 48px;
+	height: 48px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 319px;
+}
+
+.ie #u1168
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#accordionu1170
+{
+	z-index: 12;
+	width: 343px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 20px;
+}
+
+#u1171
+{
+	z-index: 13;
+	width: 343px;
+}
+
+#u1172-3
+{
+	z-index: 14;
+	width: 333px;
+	min-height: 36px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#u1172-3.AccordionPanelTabOpen
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 36px;
+	width: 333px;
+	margin: 0px;
+}
+
+#u1173
+{
+	z-index: 17;
+	width: 343px;
+	padding-bottom: 3px;
+}
+
+#menuu1174
+{
+	z-index: 18;
+	width: 295px;
+	margin-right: -10000px;
+	margin-top: 29px;
+	left: 24px;
+}
+
+#u1175
+{
+	width: 295px;
+}
+
+#u1178
+{
+	width: 295px;
+	min-height: 25px;
+	padding-bottom: 5px;
+	margin-right: -10000px;
+}
+
+#u1178:hover
+{
+	width: 295px;
+	min-height: 25px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1181-4
+{
+	width: 295px;
+	min-height: 25px;
+	margin-right: -10000px;
+	top: 2px;
+}
+
+#u1178:hover #u1181-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	width: 295px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1197
+{
+	width: 295px;
+	min-height: 25px;
+	padding-bottom: 5px;
+	margin-right: -10000px;
+}
+
+#u1178.MuseMenuActive,#u1197:hover
+{
+	width: 295px;
+	min-height: 25px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1199-4
+{
+	width: 295px;
+	min-height: 25px;
+	margin-right: -10000px;
+	top: 2px;
+}
+
+#u1178.MuseMenuActive #u1181-4,#u1197:hover #u1199-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	width: 295px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1204
+{
+	width: 295px;
+	min-height: 25px;
+	padding-bottom: 5px;
+	margin-right: -10000px;
+}
+
+#u1197.MuseMenuActive,#u1204:hover
+{
+	width: 295px;
+	min-height: 25px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1207-4
+{
+	width: 295px;
+	min-height: 25px;
+	margin-right: -10000px;
+	top: 2px;
+}
+
+#u1197.MuseMenuActive #u1199-4,#u1204:hover #u1207-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	width: 295px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1211
+{
+	width: 295px;
+	min-height: 25px;
+	padding-bottom: 5px;
+	margin-right: -10000px;
+}
+
+#u1204.MuseMenuActive,#u1211:hover
+{
+	width: 295px;
+	min-height: 25px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1213-4
+{
+	width: 295px;
+	min-height: 25px;
+	margin-right: -10000px;
+	top: 2px;
+}
+
+#u1204.MuseMenuActive #u1207-4,#u1211:hover #u1213-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	width: 295px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1194,#u1201,#u1208,#u1215
+{
+	width: 295px;
+	margin-top: 11px;
+}
+
+#u1216
+{
+	width: 295px;
+	min-height: 25px;
+	padding-bottom: 5px;
+	margin-right: -10000px;
+}
+
+#u1211.MuseMenuActive,#u1216:hover
+{
+	width: 295px;
+	min-height: 25px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1216.MuseMenuActive
+{
+	width: 295px;
+	min-height: 25px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1218-4
+{
+	width: 295px;
+	min-height: 25px;
+	margin-right: -10000px;
+	top: 2px;
+}
+
+#u1211.MuseMenuActive #u1213-4,#u1216:hover #u1218-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	width: 295px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1216.MuseMenuActive #u1218-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	width: 295px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1265-4
+{
+	z-index: 49;
+	width: 285px;
+	min-height: 49px;
+	background-color: transparent;
+	line-height: 43px;
+	font-size: 36px;
+	font-family: megrim, fantasy;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+	left: 25px;
+}
+
+#u1265
+{
+	font-size: 36px;
+}
+
+#u1266
+{
+	z-index: 53;
+	width: 370px;
+	min-height: 408px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 5px;
+	margin-top: 6px;
+	position: relative;
+}
+
+#u1268-8
+{
+	z-index: 54;
+	width: 370px;
+	min-height: 396px;
+	background-color: transparent;
+	line-height: 20px;
+	font-size: 17px;
+	font-family: dosis, sans-serif;
+	font-weight: 300;
+	margin-left: 5px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u1304
+{
+	z-index: 62;
+	width: 532px;
+	min-height: 78px;
+	border-style: none;
+	background-color: transparent;
+	margin-top: 2px;
+	position: relative;
+}
+
+#u1222-4
+{
+	z-index: 8;
+	width: 380px;
+	min-height: 36px;
+	margin-top: 1px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

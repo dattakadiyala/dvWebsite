@@ -1,0 +1,52 @@
+body h1 {
+	color: #E9D5D5;
+	padding: 5;
+	background-color: #173841;
+	text-align: center;
+	text-shadow: 0px 0px #E0C695;
+	font-variant: small-caps;
+}
+body nav {
+	display: inline;
+	min-height: 10px;
+	height: 560px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	width: 150px;
+	float: left;
+	background-color: #5D717E;
+}
+footer {
+	background-color: #173841;
+	color: #EBEBEB;
+	text-align: center;
+}
+body nav a {
+	color: #E5CFCF;
+	font-variant: small-caps;
+	font-weight: bold;
+	font-size: large;
+}
+
+
+
+
+@media screen{
+
+}
+
+@media screen{
+body p {
+
+
+}
+body {
+	background-image: url(Gradient_BG.png);
+}
+
+
+
+
+}

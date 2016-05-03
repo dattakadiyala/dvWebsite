@@ -1,0 +1,30 @@
+tr th a {
+	font-family: advent-pro;
+	font-style: normal;
+	font-weight: 100;
+	font-size: large;
+	text-shadow: 0px 0px #B83739;
+	color: #AE5635;
+	font-variant: small-caps;
+	visibility: visible;
+}
+body {
+	background-color: #F8F9E2;
+	font-style: normal;
+	font-weight: 400;
+	background-image: url(Gradient_BG.png);
+}
+body h2 {
+	font-family: advent-pro;
+	font-style: normal;
+	font-weight: 400;
+	font-variant: small-caps;
+}
+h1 {
+	font-style: normal;
+	font-weight: 400;
+	color: #D41616;
+	font-family: cabin-sketch;
+	font-variant: small-caps;
+	background-image: url(Gradient_BG.png);
+}

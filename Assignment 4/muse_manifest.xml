@@ -1,0 +1,88 @@
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1428389307241">
+  <folder name="assets">
+    <file name="ye.mp3" crc="137705091" mt="1340657428000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3921037745"/>
+    <file name="master_a-master.css" crc="194162329" ref="north-india:south-india:index:contact:survey"/>
+    <file name="north-india.css" crc="92470910" ref="north-india"/>
+    <file name="south-india.css" crc="4209949995" ref="south-india"/>
+    <file name="index.css" crc="4113270620" ref="index"/>
+    <file name="contact.css" crc="360614882" ref="contact"/>
+    <file name="iefonts_contact.css" crc="241919068" ref="contact"/>
+    <file name="survey.css" crc="4005814908" ref="survey"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="phone>index:phone>north-india:phone>south-india:phone>contact:index:north-india:south-india:contact:survey:phone>survey"/>
+    <file name="museutils.js" crc="479751881" ref="phone>index:phone>north-india:phone>south-india:phone>contact:index:north-india:south-india:contact:survey:phone>survey"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="phone>index:phone>north-india:phone>south-india:phone>contact:index:north-india:south-india:contact:survey:phone>survey"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="phone>index:phone>north-india:phone>south-india:phone>contact:index:north-india:south-india:contact:survey:phone>survey"/>
+    <file name="webpro.js" crc="3930024250" ref="index:north-india:south-india:contact:survey:phone>index:phone>north-india:phone>south-india:phone>survey:phone>contact"/>
+    <file name="musewpslideshow.js" crc="4014282895" ref="index:north-india:south-india:contact:survey:phone>north-india"/>
+    <file name="jquery.museoverlay.js" crc="4213181908" ref="index:north-india:south-india:contact:survey:phone>north-india"/>
+    <file name="touchswipe.js" crc="4151298246" ref="index:north-india:south-india:contact:survey:phone>north-india"/>
+    <file name="form_check.php" crc="332337308" ref="contact:phone>contact"/>
+    <file name="form_throttle.php" crc="3814272331" ref="contact:phone>contact"/>
+    <file name="form_process.php" crc="59041389" ref="contact:phone>contact"/>
+    <file name="form-u1013.php" crc="4088198312" ref="contact"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>south-india"/>
+    <file name="jquery.musemenu.js" crc="4120181458" ref="phone>index:phone>north-india:phone>south-india:phone>survey:phone>contact"/>
+    <file name="musewpdisclosure.js" crc="102406591" ref="phone>index:phone>north-india:phone>south-india:phone>survey:phone>contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>north-india:phone>south-india:phone>survey:phone>contact"/>
+    <file name="form-u1273.php" crc="4254398493" ref="phone>contact"/>
+    <file name="museredirect.js" crc="172797823" ref="index:north-india:south-india:survey:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="travel-image-background.jpg" crc="286902713" ref="index:north-india:south-india:contact:phone>contact:phone>index:phone>north-india:phone>south-india:survey:phone>survey"/>
+    <file name="pointer.png" crc="3760686964" ref="index:north-india:south-india:contact:survey"/>
+    <file name="pointer_2x.png" crc="3760686964" ref="index:north-india:south-india:contact:survey"/>
+    <file name="menu_icon_05_black_3line.png" crc="4118792019" ref="index:north-india:south-india:contact:survey"/>
+    <file name="15417-taj-mahal-1280x800-world-wallpaper.jpg" crc="3980158864" ref="phone>north-india:north-india"/>
+    <file name="15417-taj-mahal-1280x800-world-wallpaper_2x.jpg" crc="3941502515" ref="north-india"/>
+    <file name="blank.gif" crc="4208392903" ref="north-india:phone>north-india"/>
+    <file name="hawa mahal -1 (jai04gets).jpg" crc="4180977793" ref="phone>north-india"/>
+    <file name="himalayas-17.jpg" crc="3827866509" ref="phone>north-india:north-india"/>
+    <file name="himalayas-17_2x.jpg" crc="4268984988" ref="north-india"/>
+    <file name="loading.gif" crc="3815509949" ref="north-india:phone>north-india"/>
+    <file name="menu-icon.png" crc="3860686542" ref="phone>index:phone>south-india"/>
+    <file name="u1281-17.png" crc="311828129" ref="phone>contact"/>
+    <file name="u1281-17-r.png" crc="3844863548" ref="phone>contact"/>
+    <file name="u1281-17-m.png" crc="446077895" ref="phone>contact"/>
+    <file name="u1281-17-fs.png" crc="51175883" ref="phone>contact"/>
+    <file name="u1281-17_2x.png" crc="103267543" ref="phone>contact"/>
+    <file name="u1281-17-r_2x.png" crc="4152153754" ref="phone>contact"/>
+    <file name="u1281-17-m_2x.png" crc="4197132409" ref="phone>contact"/>
+    <file name="u1281-17-fs_2x.png" crc="4259258613" ref="phone>contact"/>
+    <file name="hawa mahal -1 (jai04gets)444x296.jpg" crc="3912635202" ref="north-india"/>
+    <file name="hawa mahal -1 (jai04gets)444x296_2x.jpg" crc="87737550" ref="north-india"/>
+    <file name="u1029-17.png" crc="311828129" ref="contact"/>
+    <file name="u1029-17-r.png" crc="3844863548" ref="contact"/>
+    <file name="u1029-17-m.png" crc="446077895" ref="contact"/>
+    <file name="u1029-17-fs.png" crc="51175883" ref="contact"/>
+    <file name="u1029-17_2x.png" crc="103267543" ref="contact"/>
+    <file name="u1029-17-r_2x.png" crc="4152153754" ref="contact"/>
+    <file name="u1029-17-m_2x.png" crc="4197132409" ref="contact"/>
+    <file name="u1029-17-fs_2x.png" crc="4259258613" ref="contact"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="north-india.css" crc="155205952" ref="phone>north-india"/>
+      <file name="south-india.css" crc="441074285" ref="phone>south-india"/>
+      <file name="index.css" crc="4084151541" ref="phone>index"/>
+      <file name="contact.css" crc="39625618" ref="phone>contact"/>
+      <file name="master_a-master.css" crc="187665802" ref="phone>contact:phone>south-india:phone>index:phone>north-india:phone>survey"/>
+      <file name="iefonts_contact.css" crc="65257140" ref="phone>contact"/>
+      <file name="survey.css" crc="3971210175" ref="phone>survey"/>
+    </folder>
+    <file name="index.html" crc="265101703" mt="1428292579822" redirect="true"/>
+    <file name="north-india.html" crc="241514233" mt="1428183701828" redirect="true"/>
+    <file name="south-india.html" crc="4166071972" mt="1428388934034" redirect="true"/>
+    <file name="contact.html" crc="89906664" mt="1428185044220" redirect="true"/>
+    <file name="survey.html" crc="3911175103" mt="1428389039512" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4135465122" mt="1428389279627" redirect="true"/>
+  <file name="north-india.html" crc="4074015689" mt="1428389279627" redirect="true"/>
+  <file name="south-india.html" crc="286596181" mt="1428389279627" redirect="true"/>
+  <file name="contact.html" crc="4001663096" mt="1428389279627" redirect="true"/>
+  <file name="survey.html" crc="454706353" mt="1428389279627" redirect="true"/>
+</manifest>
