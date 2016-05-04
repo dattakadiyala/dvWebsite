@@ -2,324 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7be2f519-5afb-4528-a2e6-a3bdefbe61c7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/Cari.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/Clear_Skin_1.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/FLVPlayer_Progressive.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/Google Self-Driving Car Project - Google Plus 2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/Google self driving/Google Self-Driving Car Project - Google Plus 2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/Google self driving/Gradient_BG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/Google self driving/autonomous.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/Google self driving/back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/Google self driving/google.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/Google self driving/unnamed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/Gradient_BG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/Scripts/expressInstall.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/autonomous.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/autonp.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/cars.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/others/3040442-slide-s-9-why-mercedess-self-driving-car-is-so.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/others/Gradient_BG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/others/Mercedes-Benz-F-015-electric-car-740x425.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/others/autonomous.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/others/back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/others/others.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/others/unnamed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/tesla/Gradient_BG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/tesla/autonomous.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/tesla/autopilot-graphic-mobile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/tesla/back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/tesla/model-d-inline2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/tesla/tesla-autopilot.0.0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/tesla/tesla-model-s-p85d-new-interface2-600-001.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/tesla/tesla.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/tesla/unnamed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/unnamed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/volvo/Clear_Skin_1.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/volvo/Clear_Skin_3.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/volvo/FLVPlayer_Progressive.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/volvo/Gradient_BG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/volvo/Scripts/expressInstall.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/volvo/Volvo Drive Me autonomous driving project.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/volvo/Volvo-Accident-avoiding-Self-driving-Car-for-2020-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/volvo/Volvo_Drive_Me_autonomous_driving_project.flv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/volvo/autonomous.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/volvo/back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/volvo/unnamed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/volvo/volvo vid.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/volvo/volvo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 2/volvo_vid.flv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/0001.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/0002.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/0bgr.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/1dx_3q_large.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/1dx_back_large.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/bck.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/check.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/clg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/cssforass3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/d4s_01_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/d4s_01_02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/ftracker.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/fullframe.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/geekhd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/routers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 3/swatch.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/assets/ye.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/css/contact.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/css/iefonts_contact.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/css/master_a-master.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/css/north-india.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/css/site_global.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/css/south-india.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/css/survay.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/css/survey.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/15417-taj-mahal-1280x800-world-wallpaper.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/15417-taj-mahal-1280x800-world-wallpaper2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/15417-taj-mahal-1280x800-world-wallpaper_2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/hawa mahal -1 (jai04gets).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/hawa mahal -1 (jai04gets)444x296.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/hawa mahal -1 (jai04gets)444x296_2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/hawa mahal -1 (jai04gets)_2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/himalayas-17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/himalayas-172.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/himalayas-17_2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/menu-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/menu_icon_05_black_3line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/pointer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/pointer_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/travel-image-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1029-17-fs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1029-17-fs_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1029-17-m.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1029-17-m_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1029-17-r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1029-17-r_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1029-17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1029-17_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1029-21-fs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1029-21-fs_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1029-21-m.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1029-21-m_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1029-21-r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1029-21-r_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1029-21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1029-21_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1281-17-fs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1281-17-fs_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1281-17-m.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1281-17-m_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1281-17-r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1281-17-r_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1281-17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u1281-17_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u910-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/images/u910-8_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/muse_manifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/north-india.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/phone/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/phone/css/contact.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/phone/css/iefonts_contact.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/phone/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/phone/css/master_a-master.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/phone/css/north-india.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/phone/css/south-india.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/phone/css/survay.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/phone/css/survey.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/phone/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/phone/north-india.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/phone/south-india.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/phone/survay.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/phone/survey.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/form-u1013.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/form-u1273.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/form_check.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/form_process.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/form_throttle.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/jquery-1.8.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/jquery.musemenu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/jquery.museoverlay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/jquery.musepolyfill.bgsize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/jquery.watch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/museredirect.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/museutils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/musewpdisclosure.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/musewpslideshow.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/pie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/touchswipe.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/scripts/webpro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/sitemap.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/south-india.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/survay.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/survey.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 4/ye.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/assets/how_chef_works.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/css/contact.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/css/how-it-works.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/css/how-to-adopt.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/css/iefonts_contact.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/css/iefonts_how-it-works.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/css/iefonts_how-to-adopt.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/css/iefonts_index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/css/iefonts_tools.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/css/master_a-master.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/css/site_global.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/css/tools.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/how-it-works.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/how-to-adopt.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/agentless.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/aglity.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/aglity_2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/atlassian-logo-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/awsdevops.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/capture.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/capture2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/capture753x52.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/chef-logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/close_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/complete-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/define.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/devops-infinity-loop2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/devops-infinity-loop2360x168.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/devops-infinity-loop2379x177.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/devops-infinity-loop2_2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/devopsdaysaustin.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/devopsdaysaustin123x179.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/enforce.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/icon-automation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/icon-culture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/icon-measurement.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/icon-sharing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/insight.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/insight_2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/logo_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/menu-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/menu_icon_04_white_3line-crop-u402.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/new_services_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/new_tower_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/pointer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/pointer_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/puppet-labs-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/puppet-labs-logo_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/report_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/saltstack-logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/saltstack-logo_2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/servicenow-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/simple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/simulate.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/speed.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/speed_2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/splunk-devops.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/splunk-devops_2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/step1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/step2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/step3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/step4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/step4183x184.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u1091-grad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u1217-grad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u1221-grad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u1261-grad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u1268-grad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u1291-17-fs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u1291-17-fs_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u1291-17-m.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u1291-17-m_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u1291-17-r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u1291-17-r_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u1291-17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u1291-17_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u1787-grad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u1978-grad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u1998-grad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2005-grad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2012-grad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2026-grad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2048-17-fs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2048-17-fs_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2048-17-m.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2048-17-m_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2048-17-r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2048-17-r_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2048-17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2048-17_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2103-17-fs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2103-17-fs_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2103-17-m.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2103-17-m_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2103-17-r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2103-17-r_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2103-17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u2103-17_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u396-grad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u848-grad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/u940-grad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/world-business-and-finance-blue-background-header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/images/world-business-and-finance-blue-background-header_2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/muse_manifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/phone/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/phone/css/contact.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/phone/css/how-it-works.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/phone/css/how-to-adopt.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/phone/css/iefonts_contact.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/phone/css/iefonts_how-it-works.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/phone/css/iefonts_how-to-adopt.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/phone/css/iefonts_index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/phone/css/iefonts_tools.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/phone/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/phone/css/master_a-master.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/phone/css/tools.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/phone/how-it-works.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/phone/how-to-adopt.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/phone/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/phone/tools.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/form-u1269.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/form-u2028.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/form-u2083.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/form_check.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/form_process.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/form_throttle.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/jquery-1.8.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/jquery.musemenu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/jquery.museoverlay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/jquery.watch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/museredirect.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/museutils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/musewpdisclosure.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/musewpslideshow.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/pie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/touchswipe.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/scripts/webpro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/sitemap.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/tablet/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/tablet/css/contact.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/tablet/css/how-it-works.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/tablet/css/how-to-adopt.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/tablet/css/iefonts_how-it-works.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/tablet/css/iefonts_how-to-adopt.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/tablet/css/iefonts_tools.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/tablet/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/tablet/css/master_a-master.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/tablet/css/tools.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/tablet/how-it-works.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/tablet/how-to-adopt.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/tablet/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/tablet/tools.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment 5/tools.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="dvWebsite.iws" />
@@ -341,7 +24,18 @@
     <favorites_list name="dvWebsite" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="29" column="25" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -394,7 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -415,8 +108,9 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -819,25 +513,26 @@
       <updated>1462308695619</updated>
       <workItem from="1462308697873" duration="2035000" />
       <workItem from="1462314743931" duration="43000" />
+      <workItem from="1462316660042" duration="1031000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2078000" />
+    <option name="totallyTimeSpent" value="3109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="18" y="43" width="1400" height="837" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32797858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2569956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2569956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496318" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -863,8 +558,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="77" selection-start-line="42" selection-start-column="77" selection-end-line="42" selection-end-column="77" />
+        <state relative-caret-position="240">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
