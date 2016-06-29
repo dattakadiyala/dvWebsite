@@ -24,8 +24,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'venkateshkadiyala@my.unt.edu',
-		'to' => 'venkateshkadiyala@my.unt.edu'
+		'from' => 'dattakadiyala@gmail.com',
+		'to' => 'dattakadiyala@gmail.com'
 	),
 	'fields' => array(
 		'custom_U2029' => array(
